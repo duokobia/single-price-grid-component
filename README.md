@@ -1,3 +1,3 @@
 # single-price-grid-component
 
-This is an HTML CSS project.
+This is an HTML, CSS project.
